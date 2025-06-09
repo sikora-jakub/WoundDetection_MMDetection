@@ -1,3 +1,10 @@
+Authors:
+- Mikołaj Musioł
+- Jakub Sikora
+- Hubert Wróbel
+- Jakub Nalepa
+- Agata M. Wijata
+
 ```python
 # Install PyTorch along with torchvision and torchaudio, specifying the version compatible with your CUDA for GPU acceleration (in our instance it is CUDA 12.1)
 !pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
