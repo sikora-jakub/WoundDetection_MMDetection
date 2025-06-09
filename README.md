@@ -1,11 +1,11 @@
-Chronic Wound Detection Using Deep Learning​
+# Chronic Wound Detection Using Deep Learning​
 
-Mikołaj Musioł, Jakub Sikora, Hubert Wróbel, Jakub Nalepa and Agata M. Wijata
+**Mikołaj Musioł, Jakub Sikora, Hubert Wróbel, Jakub Nalepa and Agata M. Wijata**
 
-Description:
+## Description:
 This repository contains materials related to the Chronic Wound Detection Using Deep Learning.
 
-Authors:
+## Authors:
 - Mikołaj Musioł
 - Jakub Sikora
 - Hubert Wróbel
@@ -13,7 +13,7 @@ Authors:
 - Agata M. Wijata
 
 
-Instructions:
+## Instructions:
 ```python
 # Install PyTorch along with torchvision and torchaudio, specifying the version compatible with your CUDA for GPU acceleration (in our instance it is CUDA 12.1)
 !pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
