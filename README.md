@@ -1,4 +1,5 @@
 Chronic Wound Detection Using Deep Learning​
+
 Mikołaj Musioł, Jakub Sikora, Hubert Wróbel, Jakub Nalepa and Agata M. Wijata
 
 Description:
